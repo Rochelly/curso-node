@@ -1,4 +1,5 @@
-console.log('Hello Node!!')
-const a = 5
-const b = 2
-console.log(a + b)
+function somaTeste(a,b) {
+  return  a+b
+}
+
+console.log(somaTeste(5,10));
