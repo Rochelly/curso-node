@@ -1,7 +1,8 @@
 const EventEmitter = require('events')
 class MeuEmissor extends EventEmitter {
-
 }
+
+
 const meuEmissor = new MeuEmissor()
 const nomeEvento = 'usuario:click'
 meuEmissor.on(nomeEvento, function(click) {
