@@ -2,7 +2,7 @@ const {
   deepEqual,
   ok
 } = require('assert')
-
+//Teste
 const database = require('./database')
 
 const DEFAULT_ITEM_CADASTRAR = {
