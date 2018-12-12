@@ -3,6 +3,7 @@ const {
   ok
 } = require('assert')
 //Teste
+//sd
 const database = require('./database')
 
 const DEFAULT_ITEM_CADASTRAR = {
