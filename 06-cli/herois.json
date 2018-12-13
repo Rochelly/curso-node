@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 [{"id":1,"nome":"Flash","poder":"Speed"},{"id":2,"nome":"Batman","poder":"Money"}]
+=======
+[{"id":1,"nome":"Flash","poder":"Speed"},{"id":1,"nome":"Flash","poder":"Speed"}]
+>>>>>>> 4a341871dd8998ebdb43a7232d50f6a89393a9d0
