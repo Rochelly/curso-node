@@ -5,7 +5,7 @@ const {
 
 // instalamos o pacote nock, para simular requisicoes
 const nock = require('nock')
-
+sd
 
 describe('Star Wars Tests', function () {
     this.beforeAll(() => {
