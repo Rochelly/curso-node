@@ -7,7 +7,7 @@ const {
   promisify
 } = require('util')
 // para usar  Promise()
-//
+// //
 const readFileAsync = promisify(readFile) // convertendo para primise
 const writeFileAsync = promisify(writeFile)
 
