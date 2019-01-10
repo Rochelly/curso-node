@@ -20,6 +20,10 @@ class Icrud {
   delete(id) {
     throw new NotImplementedException()
   }
+  isConnected(){
+    throw  new NotImplementedException()
+  }
+
 }
 
 
